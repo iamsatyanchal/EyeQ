@@ -1,0 +1,187 @@
+[
+{
+    "image_url": "https://embrace-autism.com/psychometrics_php/rme-images/image-000.jpg",
+    "options": ["jealous", "panicked", "arrogant", "hateful"],
+    "answer": "panicked"
+},
+{
+    "image_url": "https://embrace-autism.com/psychometrics_php/rme-images/image-001.jpg",
+    "options": ["playful", "comforting", "irritated", "bored"],
+    "answer": "playful"
+},
+{
+    "image_url": "https://embrace-autism.com/psychometrics_php/rme-images/image-002.jpg",
+    "options": ["terrified", "upset", "arrogant", "annoyed"],
+    "answer": "upset"
+},
+{
+    "image_url": "https://embrace-autism.com/psychometrics_php/rme-images/image-003.jpg",
+    "options": ["joking", "flustered", "desire", "convinced"],
+    "answer": "desire"
+},
+{
+    "image_url": "https://embrace-autism.com/psychometrics_php/rme-images/image-004.jpg",
+    "options": ["jealous", "insisting", "amused", "relaxed"],
+    "answer": "insisting"
+},
+{
+    "image_url": "https://embrace-autism.com/psychometrics_php/rme-images/image-005.jpg",
+    "options": ["irritated", "sarcastic", "worried", "friendly"],
+    "answer": "worried"
+},
+{
+    "image_url": "https://embrace-autism.com/psychometrics_php/rme-images/image-006.jpg",
+    "options": ["aghast", "fantasizing", "impatient", "alarmed"],
+    "answer": "fantasizing"
+},
+{
+    "image_url": "https://embrace-autism.com/psychometrics_php/rme-images/image-007.jpg",
+    "options": ["apologetic", "friendly", "uneasy", "dispirited"],
+    "answer": "uneasy"
+},
+{
+    "image_url": "https://embrace-autism.com/psychometrics_php/rme-images/image-008.jpg",
+    "options": ["despodent", "relieved", "shy", "excited"],
+    "answer": "despodent"
+},
+{
+    "image_url": "https://embrace-autism.com/psychometrics_php/rme-images/image-009.jpg",
+    "options": ["annoyed", "hostile", "horried", "preoccupied"],
+    "answer": "preoccupied"
+},
+{
+    "image_url": "https://embrace-autism.com/psychometrics_php/rme-images/image-010.jpg",
+    "options": ["cautious", "insisting", "bored", "aghast"],
+    "answer": "cautious"
+},
+{
+    "image_url": "https://embrace-autism.com/psychometrics_php/rme-images/image-011.jpg",
+    "options": ["terrified", "amused", "regretful", "flirtatious"],
+    "answer": "regretful"
+},
+{
+    "image_url": "https://embrace-autism.com/psychometrics_php/rme-images/image-012.jpg",
+    "options": ["indifferent", "embarrassed", "skeptical", "dispirited"],
+    "answer": "skeptical"
+},
+{
+    "image_url": "https://embrace-autism.com/psychometrics_php/rme-images/image-013.jpg",
+    "options": ["decisive", "anticipating", "threatening", "hateful"],
+    "answer": "anticipating"
+},
+{
+    "image_url": "https://embrace-autism.com/psychometrics_php/rme-images/image-014.jpg",
+    "options": ["irritated", "comforting", "disappointed", "accusing"],
+    "answer": "accusing"
+},
+{
+    "image_url": "https://embrace-autism.com/psychometrics_php/rme-images/image-015.jpg",
+    "options": ["contemplative", "upset", "encouraging", "amused"],
+    "answer": "contemplative"
+},
+{
+    "image_url": "https://embrace-autism.com/psychometrics_php/rme-images/image-016.jpg",
+    "options": ["irritated", "thoughtful", "desire", "convinced"],
+    "answer": "thoughtful"
+},
+{
+    "image_url": "https://embrace-autism.com/psychometrics_php/rme-images/image-017.jpg",
+    "options": ["jealous", "insisting", "doubtful", "relaxed"],
+    "answer": "doubtful"
+},
+{
+    "image_url": "https://embrace-autism.com/psychometrics_php/rme-images/image-018.jpg",
+    "options": ["decisive", "amused", "aghast", "bored"],
+    "answer": "decisive"
+},
+{
+    "image_url": "https://embrace-autism.com/psychometrics_php/rme-images/image-019.jpg",
+    "options": ["arrogant", "grateful", "sarcastic", "tentative"],
+    "answer": "tentative"
+},
+{
+    "image_url": "https://embrace-autism.com/psychometrics_php/rme-images/image-020.jpg",
+    "options": ["dominant", "friendly", "guilty", "horrified"],
+    "answer": "friendly"
+},
+{
+    "image_url": "https://embrace-autism.com/psychometrics_php/rme-images/image-021.jpg",
+    "options": ["embarrassed", "fantasizing", "confused", "panicked"],
+    "answer": "fantasizing"
+},
+{
+    "image_url": "https://embrace-autism.com/psychometrics_php/rme-images/image-022.jpg",
+    "options": ["preoccupied", "grateful", "insisting", "imploring"],
+    "answer": "preoccupied"
+},
+{
+    "image_url": "https://embrace-autism.com/psychometrics_php/rme-images/image-023.jpg",
+    "options": ["contented", "apologetic", "defiant", "curious"],
+    "answer": "defiant"
+},
+{
+    "image_url": "https://embrace-autism.com/psychometrics_php/rme-images/image-024.jpg",
+    "options": ["pensive", "irritated", "excited", "hostile"],
+    "answer": "pensive"
+},
+{
+    "image_url": "https://embrace-autism.com/psychometrics_php/rme-images/image-025.jpg",
+    "options": ["panicked", "incredulous", "despondent", "interested"],
+    "answer": "interested"
+},
+{
+    "image_url": "https://embrace-autism.com/psychometrics_php/rme-images/image-026.jpg",
+    "options": ["alarmed", "shy", "hostile", "anxious"],
+    "answer": "hostile"
+},
+{
+    "image_url": "https://embrace-autism.com/psychometrics_php/rme-images/image-027.jpg",
+    "options": ["joking", "cautious", "arrogant", "reassuring"],
+    "answer": "cautious"
+},
+{
+    "image_url": "https://embrace-autism.com/psychometrics_php/rme-images/image-028.jpg",
+    "options": ["interested", "joking", "affectionate", "contented"],
+    "answer": "interested"
+},
+{
+    "image_url": "https://embrace-autism.com/psychometrics_php/rme-images/image-029.jpg",
+    "options": ["impatient", "aghast", "irritated", "reflective"],
+    "answer": "reflective"
+},
+{
+    "image_url": "https://embrace-autism.com/psychometrics_php/rme-images/image-030.jpg",
+    "options": ["grateful", "flirtatious", "hostile", "disappointed"],
+    "answer": "flirtatious"
+},
+{
+    "image_url": "https://embrace-autism.com/psychometrics_php/rme-images/image-031.jpg",
+    "options": ["ashamed", "confident", "joking", "dispirited"],
+    "answer": "confident"
+},
+{
+    "image_url": "https://embrace-autism.com/psychometrics_php/rme-images/image-032.jpg",
+    "options": ["serious", "ashamed", "bewildered", "alarmed"],
+    "answer": "serious"
+},
+{
+    "image_url": "https://embrace-autism.com/psychometrics_php/rme-images/image-033.jpg",
+    "options": ["embarrassed", "guilty", "fantasizing", "concerned"],
+    "answer": "concerned"
+},
+{
+    "image_url": "https://embrace-autism.com/psychometrics_php/rme-images/image-034.jpg",
+    "options": ["aghast", "baffled", "distrustful", "terrified"],
+    "answer": "distrustful"
+},
+{
+    "image_url": "https://embrace-autism.com/psychometrics_php/rme-images/image-035.jpg",
+    "options": ["puzzled", "nervous", "insisting", "contemplative"],
+    "answer": "nervous"
+},
+{
+    "image_url": "https://embrace-autism.com/psychometrics_php/rme-images/image-036.jpg",
+    "options": ["ashamed", "nervous", "suspicious", "indecisive"],
+    "answer": "suspicious"
+}
+]
