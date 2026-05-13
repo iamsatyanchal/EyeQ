@@ -1,73 +1,29 @@
-# React + TypeScript + Vite
+# EYEQ ~ Emotion Recognition Game
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+EYEQ is an interactive web application that tests your ability to recognise human emotions through eye expressions alone. Based on the Reading the Mind in the Eyes (RME) test, this game presents close up images of human eyes and challenges you to select the correct emotion from four multiple-choice options :)
 
-Currently, two official plugins are available:
+## Motivation
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+I love pyschology and love reading peoples behaviour and internal thinking and eye reading is what i think very interesting that's why i made this.. 
 
-## React Compiler
+## Tech Stack
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- **React 19**
+- **TypeScript**
+- **Vite**
+- **Tailwind CSS**
 
-## Expanding the ESLint configuration
+## How It Works
 
-If you are developing a production application, we recommend updating the configuration to enable type-aware lint rules:
+1. The application loads a dataset of eye images (eyes pictures are from the internet)
+2. A random eye image is displayed in the main viewport.
+3. Users select one of the four emotion options presented at the bottom..
+4. The code validates the selection..
+5. After correct selection new eye image loads..
 
-```js
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
+## Screenshots
 
-      // Remove tseslint.configs.recommended and replace with this
-      tseslint.configs.recommendedTypeChecked,
-      // Alternatively, use this for stricter rules
-      tseslint.configs.strictTypeChecked,
-      // Optionally, add this for stylistic rules
-      tseslint.configs.stylisticTypeChecked,
+![SS](https://user-cdn.hackclub-assets.com/019e2159-0792-719a-a009-898cd1e3fdd9/screenshot-1778675942660-1.jpg)
 
-      // Other configs...
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
+![SS](https://user-cdn.hackclub-assets.com/019e2159-0ade-7dcc-b7c0-f83975174e27/screenshot-1778675943797-2.jpg)
 
-You can also install [eslint-plugin-react-x](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-x) and [eslint-plugin-react-dom](https://github.com/Rel1cx/eslint-react/tree/main/packages/plugins/eslint-plugin-react-dom) for React-specific lint rules:
-
-```js
-// eslint.config.js
-import reactX from 'eslint-plugin-react-x'
-import reactDom from 'eslint-plugin-react-dom'
-
-export default defineConfig([
-  globalIgnores(['dist']),
-  {
-    files: ['**/*.{ts,tsx}'],
-    extends: [
-      // Other configs...
-      // Enable lint rules for React
-      reactX.configs['recommended-typescript'],
-      // Enable lint rules for React DOM
-      reactDom.configs.recommended,
-    ],
-    languageOptions: {
-      parserOptions: {
-        project: ['./tsconfig.node.json', './tsconfig.app.json'],
-        tsconfigRootDir: import.meta.dirname,
-      },
-      // other options...
-    },
-  },
-])
-```
