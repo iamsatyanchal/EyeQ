@@ -1,10 +1,10 @@
 # EYEQ ~ Emotion Recognition Game
 
-EYEQ is an interactive web application that tests your ability to recognise human emotions through eye expressions alone. Based on the Reading the Mind in the Eyes (RME) test, this game presents close up images of human eyes and challenges you to select the correct emotion from four multiple-choice options :)
+EYEQ is an interactive web application that tests your ability to recognise human emotions through eye expressions alone. Based on the Reading the Mind in the Eyes (RME) test, this game presents close up images of human eyes and challenges you to select the correct emotion from four mcqs :)
 
 ## Motivation
 
-I love pyschology and love reading peoples behaviour and internal thinking and eye reading is what i think very interesting that's why i made this.. 
+I love psychology and enjoy analyzing people's behavior and internal thinking. I find eye reading to be particularly fascinating, which is why I created this project.
 
 ## Tech Stack
 
